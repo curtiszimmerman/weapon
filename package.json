@@ -1,0 +1,25 @@
+{
+  "name": "weapon",
+  "version": "0.0.0",
+  "description": "Weaponized packages?",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curtiszimmerman/weapon.git"
+  },
+  "keywords": [
+    "weapon"
+  ],
+  "author": "curtis zimmerman",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/curtiszimmerman/weapon/issues"
+  },
+  "homepage": "https://github.com/curtiszimmerman/weapon#readme",
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
+}
